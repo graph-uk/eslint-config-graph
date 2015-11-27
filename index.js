@@ -4,7 +4,6 @@ module.exports = {
 		'graph/legacy'
 	],
 	'ecmaFeatures': {
-		'restParams': true,
 		'experimentalObjectRestSpread': true
 	},
 	'rules': {

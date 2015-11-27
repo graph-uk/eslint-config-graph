@@ -31,5 +31,8 @@ If you want to use ES6+ with React:
 
 ## Changelog
 
+### 0.1.1
+- remove `restParams` option overriding
+
 ### 0.1.0
 - first version of the config
