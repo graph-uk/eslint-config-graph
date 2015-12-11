@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/doneright/eslint-config-graph#readme",
   "dependencies": {
-	  "eslint-config-airbnb": "1.0.2",
+	  "eslint-config-airbnb": "2.0.0",
 	  "eslint-plugin-react": "^3.11.3"
   }
 }
