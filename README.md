@@ -31,6 +31,11 @@ If you want to use ES6+ with React:
 
 ## Changelog
 
+### 0.2.0
+- don't use a strict version of eslint-plugin-react
+- update eslint-config-airbnb to v2.0.0
+- add `object-curly-spacing` rule
+
 ### 0.1.1
 - remove `restParams` option overriding
 
