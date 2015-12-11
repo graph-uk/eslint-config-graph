@@ -35,6 +35,7 @@ module.exports = {
 		'no-unused-expressions': [2, {
 			'allowTernary': true
 		}],
+		'object-curly-spacing': [2, 'never'],
 		'func-names': 0,
 		'default-case': 0,
 		'no-param-reassign': 0
