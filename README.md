@@ -31,6 +31,12 @@ If you want to use ES6+ with React:
 
 ## Changelog
 
+### 0.3.0
+- update eslint-config-airbnb to v2.1.1
+- remove `object-shorthand` option overriding
+- disable `react/jsx-closing-bracket-location` rule
+- disable `react/jsx-indent-props` rule
+
 ### 0.2.0
 - don't use a strict version of eslint-plugin-react
 - update eslint-config-airbnb to v2.0.0
