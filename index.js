@@ -5,8 +5,5 @@ module.exports = {
 	],
 	'ecmaFeatures': {
 		'experimentalObjectRestSpread': true
-	},
-	'rules': {
-		'object-shorthand': [2, 'always']
 	}
 };
