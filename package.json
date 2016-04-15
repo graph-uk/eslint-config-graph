@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-graph",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "ESLint config by Graph.",
   "main": "index.js",
   "scripts": {
