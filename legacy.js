@@ -24,6 +24,7 @@ module.exports = {
 			'initialized': 'never',
 			'uninitialized': 'always'
 		}],
+		'one-var-declaration-per-line': [2, 'initializations'],
 		'brace-style': [2, '1tbs', {
 			'allowSingleLine': false
 		}],
@@ -38,6 +39,8 @@ module.exports = {
 		'object-curly-spacing': [2, 'never'],
 		'func-names': 0,
 		'default-case': 0,
-		'no-param-reassign': 0
+		'no-param-reassign': 0,
+		'max-len': 0,
+		'consistent-return': 0
 	}
 };
