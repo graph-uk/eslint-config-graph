@@ -3,7 +3,12 @@ module.exports = {
 		'airbnb/rules/es6',
 		'graph/legacy'
 	],
-	'ecmaFeatures': {
-		'experimentalObjectRestSpread': true
+	'parserOptions': {
+		'ecmaFeatures': {
+			'experimentalObjectRestSpread': true
+		}
+	},
+	'rules': {
+		'arrow-body-style': 0
 	}
 };
