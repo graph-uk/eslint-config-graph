@@ -1,8 +1,9 @@
 module.exports = {
 	'extends': 'airbnb/rules/react',
 	'rules': {
-		'react/jsx-closing-bracket-location': 0,
-		'react/jsx-indent-props': 0,
+		'react/jsx-indent-props': [2, 'tab'],
+		'react/prefer-es6-class': [2, 'never'],
+		'react/jsx-space-before-closing': [2, 'never'],
 		'react/sort-comp': [2, {
 			'order': [
 				'lifecycle',
