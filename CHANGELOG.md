@@ -1,5 +1,8 @@
-1.0.0 / 2016-04-08
+1.0.0 
 ==================
+
+> April 15, 2016
+
 - [deps] update eslint-config-airbnb to 7.0.0
 - [deps] update eslint-plugin-react to 4.3.0
 - [deps] add eslint-plugin-jsx-a11y
@@ -15,6 +18,9 @@
 
 0.3.0
 =====
+
+> December 29, 2015
+
 - update eslint-config-airbnb to v2.1.1
 - remove `object-shorthand` option overriding
 - disable `react/jsx-closing-bracket-location` rule
@@ -22,14 +28,23 @@
 
 0.2.0
 =====
+
+> December 11, 2015
+
 - don't use a strict version of eslint-plugin-react
 - update eslint-config-airbnb to v2.0.0
 - add `object-curly-spacing` rule
 
 0.1.1
 =====
+
+> November 27, 2015 
+
 - remove `restParams` option overriding
 
 0.1.0
 =====
+
+> Nov 27, 2015
+
 - first version of the config
