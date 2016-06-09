@@ -41,6 +41,8 @@ module.exports = {
 		'default-case': 0,
 		'no-param-reassign': 0,
 		'max-len': 0,
-		'consistent-return': 0
+		'consistent-return': 0,
+		'no-underscore-dangle': [2, {"allowAfterThis": true}],
+		'prefer-template': 0
 	}
 };

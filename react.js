@@ -1,9 +1,17 @@
 module.exports = {
-	'extends': 'airbnb/rules/react',
+	'extends': [
+		'airbnb/rules/react'
+	],
 	'rules': {
+		'react/jsx-indent': [2, 'tab'],
 		'react/jsx-indent-props': [2, 'tab'],
-		'react/prefer-es6-class': [2, 'never'],
-		'react/jsx-space-before-closing': [2, 'never'],
+		'react/jsx-space-before-closing': [0, 'never'],
+		'react/jsx-first-prop-new-line': 0,
+		'react/jsx-closing-bracket-location': [2, {
+			'nonEmpty': 'tag-aligned',
+			'selfClosing': 'tag-aligned'
+		}],
+		'react/prefer-stateless-function': 0,
 		'react/sort-comp': [2, {
 			'order': [
 				'lifecycle',

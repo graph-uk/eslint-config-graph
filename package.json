@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-graph",
   "version": "1.0.0",
-  "description": "ESLint config by Graph.",
+  "description": "ESLint config by Graph",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/doneright/eslint-config-graph.git"
   },
   "keywords": [
+    "graph",
     "eslint",
     "eslintconfig",
     "config",
@@ -24,11 +25,10 @@
   },
   "homepage": "https://github.com/doneright/eslint-config-graph#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^7.0.0",
-    "eslint-plugin-jsx-a11y": "^0.6.2",
-    "eslint-plugin-react": "^4.3.0"
-  },
-  "peerDependencies": {
-    "eslint": "^2.7.0"
+    "eslint": "^2.11.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.7.0",
+    "eslint-plugin-jsx-a11y": "^1.3.0",
+    "eslint-plugin-react": "^5.1.1"
   }
 }

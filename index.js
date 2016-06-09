@@ -1,7 +1,6 @@
 module.exports = {
 	'extends': [
-		'airbnb/rules/es6',
-		'graph/legacy'
+		'airbnb/base'
 	],
 	'parserOptions': {
 		'ecmaFeatures': {
@@ -9,6 +8,6 @@ module.exports = {
 		}
 	},
 	'rules': {
-		'arrow-body-style': 0
+		// 'arrow-body-style': 0
 	}
 };

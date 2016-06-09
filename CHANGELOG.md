@@ -1,5 +1,22 @@
+2.0.0
+=====
+
+> 10 Jun 2016
+
+- [deps] update eslint-config-airbnb to 9.0.0
+- [deps] update eslint-plugin-react to 5.1.0
+- [breaking] configurations files match airbnb
+- [minor] set tabs for `react/jsx-indent` and `react/jsx-indent-props`
+- [minor] enable `no-underscore-dangle`, but not after `this`
+- [minor] enable `arrow-body-style`
+- [minor] disable `prefer-template`
+- [minor] disable `react/prefer-es6-class`
+- [minor] disable `react/prefer-stateless-function`
+- [minor] disable `react/jsx-space-before-closing`
+- [minor] disable `react/jsx-first-prop-new-line`
+
 1.0.0 
-==================
+=====
 
 > April 15, 2016
 
