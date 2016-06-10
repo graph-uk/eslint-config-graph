@@ -1,7 +1,7 @@
 2.0.0
 =====
 
-> 10 Jun 2016
+> 2016-06-10
 
 - [deps] update eslint-config-airbnb to 9.0.0
 - [deps] update eslint-plugin-react to 5.1.0
@@ -18,7 +18,7 @@
 1.0.0 
 =====
 
-> April 15, 2016
+> 2016-04-15
 
 - [deps] update eslint-config-airbnb to 7.0.0
 - [deps] update eslint-plugin-react to 4.3.0
@@ -36,7 +36,7 @@
 0.3.0
 =====
 
-> December 29, 2015
+> 2015-12-29
 
 - update eslint-config-airbnb to v2.1.1
 - remove `object-shorthand` option overriding
@@ -46,7 +46,7 @@
 0.2.0
 =====
 
-> December 11, 2015
+> 2015-12-11
 
 - don't use a strict version of eslint-plugin-react
 - update eslint-config-airbnb to v2.0.0
@@ -55,13 +55,13 @@
 0.1.1
 =====
 
-> November 27, 2015 
+> 2015-11-27
 
 - remove `restParams` option overriding
 
 0.1.0
 =====
 
-> Nov 27, 2015
+> 2015-11-27
 
 - first version of the config
