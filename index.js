@@ -1,13 +1,10 @@
 module.exports = {
 	'extends': [
-		'airbnb/base'
-	],
+		'eslint-config-airbnb/base'
+	].map(require.resolve),
 	'parserOptions': {
 		'ecmaFeatures': {
 			'experimentalObjectRestSpread': true
 		}
-	},
-	'rules': {
-		// 'arrow-body-style': 0
 	}
 };

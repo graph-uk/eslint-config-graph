@@ -1,8 +1,10 @@
 module.exports = {
 	'extends': [
-		'airbnb/legacy'
-	],
+		'eslint-config-airbnb/legacy'
+	].map(require.resolve),
 	'rules': {
+		'linebreak-style': 0,
+		'no-tabs': 0,
 		'indent': [2, 'tab', {
 			'SwitchCase': 1
 		}],

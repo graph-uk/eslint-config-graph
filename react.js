@@ -1,7 +1,7 @@
 module.exports = {
 	'extends': [
-		'airbnb/rules/react'
-	],
+		'eslint-config-airbnb/rules/react'
+	].map(require.resolve),
 	'rules': {
 		'react/jsx-indent': [2, 'tab'],
 		'react/jsx-indent-props': [2, 'tab'],
