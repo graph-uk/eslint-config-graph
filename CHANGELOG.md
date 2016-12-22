@@ -1,3 +1,18 @@
+4.0.0
+=====
+
+> 2016-12-22
+
+- [deps] update eslint-config-airbnb to 13.0.0
+
+3.0.0
+=====
+
+> 2016-10-05
+
+- [deps] update eslint-config-airbnb to 12.0.0
+- [deps] remove eslint and its plugins from dependency list
+
 2.0.0
 =====
 
