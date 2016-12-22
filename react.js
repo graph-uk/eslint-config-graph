@@ -11,6 +11,12 @@ module.exports = {
 			'nonEmpty': 'tag-aligned',
 			'selfClosing': 'tag-aligned'
 		}],
+		'react/no-unused-prop-types': [2, {
+			'skipShapeProps': true
+		}],
+		'react/forbid-prop-types': [2, {
+			'forbid': ['any']
+		}],
 		'react/prefer-stateless-function': 0,
 		'react/sort-comp': [2, {
 			'order': [

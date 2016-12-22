@@ -6,5 +6,8 @@ module.exports = {
 		'ecmaFeatures': {
 			'experimentalObjectRestSpread': true
 		}
+	},
+	'rules': {
+		'arrow-parens': ['error', 'as-needed']
 	}
 };
