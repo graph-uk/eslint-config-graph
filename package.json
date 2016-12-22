@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/doneright/eslint-config-graph#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^12.0.0"
+    "eslint-config-airbnb": "^13.0.0"
   }
 }
