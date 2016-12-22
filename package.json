@@ -4,11 +4,10 @@
   "description": "ESLint config by Graph",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doneright/eslint-config-graph.git"
+    "url": "https://github.com/graph-uk/eslint-config-graph.git"
   },
   "keywords": [
     "graph",
@@ -21,9 +20,9 @@
   "author": "Alexander Ivantsov <alexander.ivantsov@graph.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doneright/eslint-config-graph/issues"
+    "url": "https://github.com/graph-uk/eslint-config-graph/issues"
   },
-  "homepage": "https://github.com/doneright/eslint-config-graph#readme",
+  "homepage": "https://github.com/graph-uk/eslint-config-graph#readme",
   "dependencies": {
     "eslint-config-airbnb": "^13.0.0"
   }
