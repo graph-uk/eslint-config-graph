@@ -1,7 +1,16 @@
-4.0.0
+4.1.0
 =====
 
 > 2016-12-22
+
+- [breaking] set `arrow-parens`
+- [minor] skip `shape` props in `react/no-unused-prop-types`
+- [minor] deny `any` value in `propTypes`
+
+4.0.0
+=====
+
+> 2016-12-21
 
 - [deps] update eslint-config-airbnb to 13.0.0
 
