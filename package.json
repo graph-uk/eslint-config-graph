@@ -18,6 +18,9 @@
     "styleguide"
   ],
   "author": "Alexander Ivantsov <alexander.ivantsov@graph.uk>",
+  "contributors": [
+    "Vladimir Kuznetsov <vladimir.kuznetsov@graph.uk>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/graph-uk/eslint-config-graph/issues"
