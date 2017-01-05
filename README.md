@@ -2,7 +2,7 @@
 
 This package provides ESLint config according to the Graph styleguide, which is based on [AirBnB](https://github.com/airbnb/javascript).
 
-## Usage
+## Installation
 
 To install package run `npm install eslint-config-graph --save-dev`
 
@@ -25,3 +25,7 @@ Here’s an example `.eslintrc.json` file:
 ```
 
 See [ESLint documentation](http://eslint.org/docs/user-guide/configuring) for more options.
+
+## License
+
+MIT
