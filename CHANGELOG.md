@@ -1,3 +1,10 @@
+5.0.0
+=====
+
+> 2017-01-09
+
+- [deps] updated eslint-config-airbnb to 14.0.0
+
 4.1.0
 =====
 
@@ -39,7 +46,7 @@
 - [minor] disable `react/jsx-space-before-closing`
 - [minor] disable `react/jsx-first-prop-new-line`
 
-1.0.0 
+1.0.0
 =====
 
 > 2016-04-15
