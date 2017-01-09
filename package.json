@@ -1,10 +1,9 @@
 {
   "name": "eslint-config-graph",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "description": "ESLint config by Graph",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/graph-uk/eslint-config-graph.git"
