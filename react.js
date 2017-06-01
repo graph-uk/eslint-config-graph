@@ -3,6 +3,13 @@ module.exports = {
 		'eslint-config-airbnb/rules/react'
 	].map(require.resolve),
 	'rules': {
+		'react/require-default-props': 'off',
+		'react/no-array-index-key': 'off',
+		'react/jsx-tag-spacing': [2, {
+			'closingSlash': 'never',
+			'beforeSelfClosing': 'allow',
+			'afterOpening': 'never'
+		}],
 		'react/jsx-indent': [2, 'tab'],
 		'react/jsx-indent-props': [2, 'tab'],
 		'react/jsx-space-before-closing': [0, 'never'],

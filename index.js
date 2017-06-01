@@ -8,6 +8,8 @@ module.exports = {
 		}
 	},
 	'rules': {
-		'arrow-parens': ['error', 'as-needed']
+		'arrow-parens': [2, 'as-needed'],
+		'no-plusplus': [2, {'allowForLoopAfterthoughts': true}],
+		'no-mixed-operators': [2, {'allowSamePrecedence': true}]
 	}
 };
