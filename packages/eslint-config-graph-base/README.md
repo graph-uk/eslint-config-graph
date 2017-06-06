@@ -1,10 +1,10 @@
-# eslint-config-graph
+# eslint-config-graph-base
 
-This package provides base ESLint config according to the Graph styleguide, which is based on [AirBnB](https://github.com/airbnb/javascript).
+This package provides **base** ESLint config according to the Graph styleguide, which is based on [AirBnB](https://github.com/airbnb/javascript).
 
 ## Installation
 
-To install package run `npm install eslint-config-graph --save-dev`
+To install package run `npm install eslint-config-graph-base --save-dev`
 
 ## Configuration
 
