@@ -9,18 +9,23 @@ module.exports = {
 		'react/forbid-prop-types': ['error', {
 			'forbid': ['any']
 		}],
+		'react/jsx-closing-bracket-location': ['error', {
+			'nonEmpty': 'tag-aligned',
+			'selfClosing': 'tag-aligned'
+		}],
+		'react/jsx-first-prop-new-line': 'off',
+		'react/jsx-indent': ['error', 'tab'],
+		'react/jsx-indent-props': ['error', 'tab'],
+		'react/jsx-space-before-closing': ['off', 'never'],
 		'react/jsx-tag-spacing': ['error', {
 			'closingSlash': 'never',
 			'beforeSelfClosing': 'allow',
 			'afterOpening': 'never'
 		}],
-		'react/jsx-indent': ['error', 'tab'],
-		'react/jsx-indent-props': ['error', 'tab'],
-		'react/jsx-space-before-closing': ['off', 'never'],
-		'react/jsx-first-prop-new-line': 'off',
-		'react/jsx-closing-bracket-location': ['error', {
-			'nonEmpty': 'tag-aligned',
-			'selfClosing': 'tag-aligned'
+		'react/jsx-wrap-multilines': ['error', {
+			declaration: true,
+			assignment: true,
+			return: true
 		}],
 		'react/no-array-index-key': 'off',
 		'react/no-unused-prop-types': ['error', {
