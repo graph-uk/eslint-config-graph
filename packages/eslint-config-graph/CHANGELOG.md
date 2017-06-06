@@ -1,68 +1,76 @@
+6.0.0
+=====
+
+> 2017-06-06 
+
+- updated eslint-config-airbnb to 15.0.1
+- extracted base configuration rules into a separate module
+
 5.0.0
 =====
 
 > 2017-01-09
 
-- [deps] updated eslint-config-airbnb to 14.0.0
+- updated eslint-config-airbnb to 14.0.0
 
 4.1.0
 =====
 
 > 2016-12-22
 
-- [breaking] set `arrow-parens`
-- [minor] skip `shape` props in `react/no-unused-prop-types`
-- [minor] deny `any` value in `propTypes`
+- set `arrow-parens`
+- skip `shape` props in `react/no-unused-prop-types`
+- deny `any` value in `propTypes`
 
 4.0.0
 =====
 
 > 2016-12-21
 
-- [deps] update eslint-config-airbnb to 13.0.0
+- update eslint-config-airbnb to 13.0.0
 
 3.0.0
 =====
 
 > 2016-10-05
 
-- [deps] update eslint-config-airbnb to 12.0.0
-- [deps] remove eslint and its plugins from dependency list
+- update eslint-config-airbnb to 12.0.0
+- remove eslint and its plugins from dependency list
 
 2.0.0
 =====
 
 > 2016-06-10
 
-- [deps] update eslint-config-airbnb to 9.0.0
-- [deps] update eslint-plugin-react to 5.1.0
-- [breaking] configurations files match airbnb
-- [minor] set tabs for `react/jsx-indent` and `react/jsx-indent-props`
-- [minor] enable `no-underscore-dangle`, but not after `this`
-- [minor] enable `arrow-body-style`
-- [minor] disable `prefer-template`
-- [minor] disable `react/prefer-es6-class`
-- [minor] disable `react/prefer-stateless-function`
-- [minor] disable `react/jsx-space-before-closing`
-- [minor] disable `react/jsx-first-prop-new-line`
+- update eslint-config-airbnb to 9.0.0
+- update eslint-plugin-react to 5.1.0
+- configurations files match airbnb
+- set tabs for `react/jsx-indent` and `react/jsx-indent-props`
+- enable `no-underscore-dangle`, but not after `this`
+- enable `arrow-body-style`
+- disable `prefer-template`
+- disable `react/prefer-es6-class`
+- disable `react/prefer-stateless-function`
+- disable `react/jsx-space-before-closing`
+- disable `react/jsx-first-prop-new-line`
 
 1.0.0
 =====
 
 > 2016-04-15
 
-- [deps] update eslint-config-airbnb to 7.0.0
-- [deps] update eslint-plugin-react to 4.3.0
-- [deps] add eslint-plugin-jsx-a11y
-- [deps] add eslint v2.7.0 in perDependencies section
-- [breaking] enable `one-var-declaration-per-line`
-- [breaking] [react] enable `jsx-closing-bracket-location`
-- [breaking] [react] enable `jsx-indent-props`
-- [breaking] [react] enable `prefer-es6-class`
-- [breaking] [react] enable `jsx-space-before-closing`
-- [minor] disable `max-len`
-- [minor] disable `consistent-return`
-- [minor] disable `arrow-body-style`
+- update eslint-config-airbnb to 7.0.0
+- update eslint-plugin-react to 4.3.0
+- add eslint-plugin-jsx-a11y
+- add eslint v2.7.0 in perDependencies section
+- enable `one-var-declaration-per-line`
+- enable `jsx-closing-bracket-location`
+- enable `jsx-indent-props`
+- enable `prefer-es6-class`
+- enable `jsx-space-before-closing`
+- disable `max-len`
+- disable `consistent-return`
+- disable `arrow-body-style`
 
 0.3.0
 =====

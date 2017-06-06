@@ -24,9 +24,9 @@
   "bugs": {
     "url": "https://github.com/graph-uk/eslint-config-graph/issues"
   },
-  "homepage": "https://github.com/graph-uk/eslint-config-graph#readme",
+  "homepage": "https://github.com/graph-uk/eslint-config-graph/tree/master/packages/eslint-config-graph#readme",
   "dependencies": {
     "eslint-config-airbnb": "^15.0.1",
-    "eslint-config-graph-base": "1.0.0-alpha.1"
+    "eslint-config-graph-base": "1.0.0"
   }
 }
