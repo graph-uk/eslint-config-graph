@@ -22,11 +22,6 @@ module.exports = {
 			'beforeSelfClosing': 'allow',
 			'afterOpening': 'never'
 		}],
-		'react/jsx-wrap-multilines': ['error', {
-			declaration: true,
-			assignment: true,
-			return: true
-		}],
 		'react/no-array-index-key': 'off',
 		'react/no-unused-prop-types': ['error', {
 			'skipShapeProps': true
