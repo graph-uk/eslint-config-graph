@@ -1,6 +1,6 @@
 # eslint-config-graph
 
-This package provides ESLint config according to the Graph styleguide, which is based on [AirBnB](https://github.com/airbnb/javascript).
+This package provides base ESLint config according to the Graph styleguide, which is based on [AirBnB](https://github.com/airbnb/javascript).
 
 ## Installation
 
@@ -17,9 +17,7 @@ Here’s an example `.eslintrc.json` file:
 ```json
 {
   "extends": [
-    "graph",
-    "graph/legacy",
-    "graph/react"
+    "graph-base"
   ]
 }
 ```

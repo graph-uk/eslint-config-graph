@@ -1,31 +1,34 @@
+const parents = [
+	'eslint-config-graph-base',
+	'eslint-config-airbnb/rules/react'
+];
+
 module.exports = {
-	'extends': [
-		'eslint-config-airbnb/rules/react'
-	].map(require.resolve),
-	'rules': {
-		'react/require-default-props': 'off',
-		'react/no-array-index-key': 'off',
-		'react/jsx-tag-spacing': [2, {
+	extends: parents.map(require.resolve),
+	rules: {
+		'react/forbid-prop-types': ['error', {
+			'forbid': ['any']
+		}],
+		'react/jsx-tag-spacing': ['error', {
 			'closingSlash': 'never',
 			'beforeSelfClosing': 'allow',
 			'afterOpening': 'never'
 		}],
-		'react/jsx-indent': [2, 'tab'],
-		'react/jsx-indent-props': [2, 'tab'],
-		'react/jsx-space-before-closing': [0, 'never'],
-		'react/jsx-first-prop-new-line': 0,
-		'react/jsx-closing-bracket-location': [2, {
+		'react/jsx-indent': ['error', 'tab'],
+		'react/jsx-indent-props': ['error', 'tab'],
+		'react/jsx-space-before-closing': ['off', 'never'],
+		'react/jsx-first-prop-new-line': 'off',
+		'react/jsx-closing-bracket-location': ['error', {
 			'nonEmpty': 'tag-aligned',
 			'selfClosing': 'tag-aligned'
 		}],
-		'react/no-unused-prop-types': [2, {
+		'react/no-array-index-key': 'off',
+		'react/no-unused-prop-types': ['error', {
 			'skipShapeProps': true
 		}],
-		'react/forbid-prop-types': [2, {
-			'forbid': ['any']
-		}],
-		'react/prefer-stateless-function': 0,
-		'react/sort-comp': [2, {
+		'react/prefer-stateless-function': 'off',
+		'react/require-default-props': 'off',
+		'react/sort-comp': ['error', {
 			'order': [
 				'lifecycle',
 				'render',
