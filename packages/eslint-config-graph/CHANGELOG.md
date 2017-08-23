@@ -1,7 +1,14 @@
+6.1.0
+=====
+
+> 2017-08-23
+
+- updated `eslint-config-airbnb` to 15.1.0 to make the module compatible with eslint 4.4
+
 6.0.0
 =====
 
-> 2017-06-06 
+> 2017-06-06
 
 - updated eslint-config-airbnb to 15.0.1
 - extracted base configuration rules into a separate module
