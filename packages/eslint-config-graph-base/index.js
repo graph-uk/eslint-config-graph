@@ -36,6 +36,7 @@ module.exports = {
 			property: '__defineSetter__',
 			message: 'Please use Object.defineProperty instead.'
 		}],
+		'no-return-assign': ['error', 'except-parens'],
 		'no-unused-expressions': ['error', {
 			'allowTernary': true
 		}],

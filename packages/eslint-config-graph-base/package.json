@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/graph-uk/eslint-config-graph/tree/master/packages/eslint-config-graph-base#readme",
   "dependencies": {
-    "eslint-config-airbnb-base": "^11.2.0"
+    "eslint-config-airbnb-base": "^11.3.2"
   }
 }
