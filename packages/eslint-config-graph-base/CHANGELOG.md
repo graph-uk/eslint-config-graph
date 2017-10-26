@@ -1,3 +1,12 @@
+2.0.0
+=====
+
+> 2017-10-26
+
+- upgraded `eslint-config-airbnb-base` to 12.1.0
+- overrided rule `function-paren-newline` on `off`
+
+
 1.1.0
 =====
 

@@ -54,6 +54,7 @@ module.exports = {
 			'allowSingleLine': false
 		}],
 		'func-names': 'off',
+		'function-paren-newline': 'off',
 		'indent': ['error', 'tab', {
 			'SwitchCase': 1
 		}],

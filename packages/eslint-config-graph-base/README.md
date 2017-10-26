@@ -1,5 +1,7 @@
 # eslint-config-graph-base
 
+[![npm version](https://img.shields.io/npm/v/eslint-config-graph-base.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-graph-base)
+
 This package provides **base** ESLint config according to the Graph styleguide, which is based on [AirBnB](https://github.com/airbnb/javascript).
 
 ## Installation
