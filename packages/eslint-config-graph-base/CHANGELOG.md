@@ -1,3 +1,10 @@
+3.1.0-alpha
+=====
+
+> 2018-08-14
+
+- upgraded `eslint-config-airbnb-base` to 13.1.0
+
 3.0.0-alpha
 =====
 

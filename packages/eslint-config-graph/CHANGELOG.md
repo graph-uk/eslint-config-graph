@@ -1,3 +1,11 @@
+8.1.0-alpha
+=====
+
+> 2018-08-14
+
+- updated `eslint-config-airbnb` to 17.1.0
+- updated `eslint-config-graph-base` to 3.1.0
+
 8.0.0-alpha
 =====
 
