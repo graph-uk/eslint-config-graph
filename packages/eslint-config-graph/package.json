@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-graph",
-  "version": "9.0.0-alpha",
+  "version": "9.1.0-alpha",
   "description": "Graph’s extended ESLint config",
   "main": "index.js",
   "scripts": {},
