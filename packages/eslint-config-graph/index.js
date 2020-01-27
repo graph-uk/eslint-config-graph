@@ -1,6 +1,7 @@
 const parents = [
 	'eslint-config-graph-base',
-	'eslint-config-airbnb/rules/react'
+	'eslint-config-airbnb/rules/react',
+	'eslint-config-airbnb/rules/react-hooks'
 ];
 
 module.exports = {

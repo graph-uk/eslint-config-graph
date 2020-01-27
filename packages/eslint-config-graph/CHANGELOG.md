@@ -1,3 +1,10 @@
+9.1.0-alpha
+=====
+
+> 2020-01-27
+
+- added react hooks rules
+
 9.0.0-alpha
 =====
 
