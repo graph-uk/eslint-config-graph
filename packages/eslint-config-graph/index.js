@@ -29,6 +29,7 @@ module.exports = {
 		}],
 		'react/prefer-stateless-function': 'off',
 		'react/require-default-props': 'off',
+		"react/jsx-props-no-spreading": "off",
 		'react/sort-comp': ['error', {
 			'order': [
 				'lifecycle',
