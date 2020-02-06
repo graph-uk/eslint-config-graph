@@ -1,3 +1,10 @@
+9.2.0-alpha
+=====
+
+> 2020-02-06
+
+- turned off `react/jsx-props-no-spreading` rule
+
 9.1.0-alpha
 =====
 
