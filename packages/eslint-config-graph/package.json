@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-graph",
-  "version": "8.1.0-alpha",
+  "version": "9.2.0-alpha",
   "description": "Graph’s extended ESLint config",
   "main": "index.js",
   "scripts": {},
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/graph-uk/eslint-config-graph/tree/master/packages/eslint-config-graph#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-config-graph-base": "3.1.0-alpha"
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-graph-base": "4.0.0-alpha"
   }
 }

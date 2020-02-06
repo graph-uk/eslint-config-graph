@@ -1,6 +1,7 @@
 const parents = [
 	'eslint-config-graph-base',
-	'eslint-config-airbnb/rules/react'
+	'eslint-config-airbnb/rules/react',
+	'eslint-config-airbnb/rules/react-hooks'
 ];
 
 module.exports = {
@@ -28,6 +29,7 @@ module.exports = {
 		}],
 		'react/prefer-stateless-function': 'off',
 		'react/require-default-props': 'off',
+		"react/jsx-props-no-spreading": "off",
 		'react/sort-comp': ['error', {
 			'order': [
 				'lifecycle',

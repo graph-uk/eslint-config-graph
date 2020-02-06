@@ -1,3 +1,25 @@
+9.2.0-alpha
+=====
+
+> 2020-02-06
+
+- turned off `react/jsx-props-no-spreading` rule
+
+9.1.0-alpha
+=====
+
+> 2020-01-27
+
+- added react hooks rules
+
+9.0.0-alpha
+=====
+
+> 2020-01-24
+
+- updated `eslint-config-airbnb` to 18.0.1
+- updated `eslint-config-graph-base` to 4.0.0
+
 8.1.0-alpha
 =====
 

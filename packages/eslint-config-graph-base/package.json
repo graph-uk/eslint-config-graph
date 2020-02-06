@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-graph-base",
-  "version": "3.1.0-alpha",
+  "version": "4.0.0-alpha",
   "description": "Graph’s base ESLint config",
   "main": "index.js",
   "scripts": {},
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/graph-uk/eslint-config-graph/tree/master/packages/eslint-config-graph-base#readme",
   "dependencies": {
-    "eslint-config-airbnb-base": "^13.1.0"
+    "eslint-config-airbnb-base": "^14.0.0"
   }
 }
