@@ -1,3 +1,11 @@
+9.2.1-alpha
+=====
+
+> 2020-06-05
+
+- updated `eslint-config-airbnb` to 18.1.0
+- updated `eslint-config-graph-base` 4.0.1-alpha
+
 9.2.0-alpha
 =====
 

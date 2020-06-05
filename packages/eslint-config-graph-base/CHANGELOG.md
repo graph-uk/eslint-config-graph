@@ -1,3 +1,10 @@
+4.0.1-alpha
+=====
+
+> 2020-06-05
+
+- upgraded `eslint-config-airbnb-base` to 14.1.0
+
 4.0.0-alpha
 =====
 
